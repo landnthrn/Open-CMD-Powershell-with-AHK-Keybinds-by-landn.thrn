@@ -41,11 +41,8 @@ Paste the shortcut file there so it starts up with every computer boot
 
 ---
 
-## Find more of my creations on GitHub:
-👉 [landnthrn repositories](https://github.com/landnthrn?tab=repositories)
+## Support me
+- ☕ [Buy Me a Coffee](https://buymeacoffee.com/landn.thrn)  
+- 🌊 [Paypal Donation](https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C)
 
-## Support me on Buy Me a Coffee:
-👉 [buymeacoffee.com/landn.thrn](https://buymeacoffee.com/landn.thrn)
-
-## Paypal Donation:
-👉 [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C)
+---
