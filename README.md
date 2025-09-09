@@ -1,0 +1,1 @@
+# Open-CMD-Powershell-with-AHK-Keybinds-by-landn.thrn
